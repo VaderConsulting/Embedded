@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FEZ Panda II Application1", "FEZ Panda II Application1\FEZ Panda II Application1.csproj", "{BA116504-4A18-4AD6-A546-EB6377C072BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A455C397-75BD-4CD2-9BF5-9A1CC1283E49}"
+	ProjectSection(SolutionItems) = preProject
+		FEZ Panda II Application1.vsd = FEZ Panda II Application1.vsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA116504-4A18-4AD6-A546-EB6377C072BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA116504-4A18-4AD6-A546-EB6377C072BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA116504-4A18-4AD6-A546-EB6377C072BE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BA116504-4A18-4AD6-A546-EB6377C072BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA116504-4A18-4AD6-A546-EB6377C072BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA116504-4A18-4AD6-A546-EB6377C072BE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

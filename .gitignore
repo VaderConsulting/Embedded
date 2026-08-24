@@ -1,0 +1,39 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Legacy source-control bindings
+*.scc
+*.vssscc
+*.vspscc
+
+# NuGet
+packages/
+
+
+# Secrets / credentials (never upload)
+*.pfx
+*.p12
+*.pem
+*.key
+.env
+**/appsettings.*.local.json
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# Redacted originals (see *.example files)
+netmftoolbox-19492/Framework/NET/IRC_Client.cs
+netmftoolbox-19492/Framework/NET/HTTP_Client.cs
+netmftoolbox-19492/Samples/Visual Basic/Terminal Server/Module1.vb
+netmftoolbox-19492/Samples/Visual Basic/Terminal Server/Programs/Auth.vb
+netmftoolbox-19492/Samples/Visual C#/Terminal Server/Program.cs
+netmftoolbox-19492/Samples/Visual C#/Terminal Server/Programs/Auth.cs

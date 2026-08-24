@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panda Encoder", "Panda Encoder\Panda Encoder.csproj", "{2A688872-4C3E-4644-BC89-D78D69D69B61}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://vaderconsulting.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Panda\u0020Encoder\\Panda\u0020Encoder.csproj
+		SccProjectName1 = Panda\u0020Encoder
+		SccLocalPath1 = Panda\u0020Encoder
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A688872-4C3E-4644-BC89-D78D69D69B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A688872-4C3E-4644-BC89-D78D69D69B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A688872-4C3E-4644-BC89-D78D69D69B61}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2A688872-4C3E-4644-BC89-D78D69D69B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A688872-4C3E-4644-BC89-D78D69D69B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A688872-4C3E-4644-BC89-D78D69D69B61}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
