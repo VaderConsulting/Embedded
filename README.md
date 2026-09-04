@@ -125,6 +125,10 @@ C# .NET Micro Framework working copies: FEZ Panda II Application1 (Realtag watch
 
 Open `netmftoolbox-19492/Framework/.NET Micro Framework Toolbox (4.2).sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2010, .NET Framework 4.1, .NET Framework 4.2
+
 ## Attribution and provenance
 
 - **Assembly company:** Microsoft, Stefan.Co
