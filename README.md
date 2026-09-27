@@ -131,6 +131,7 @@ Open `netmftoolbox-19492/Framework/.NET Micro Framework Toolbox (4.2).sln` in Vi
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `Embedded`.
 - **Assembly company:** Microsoft, Stefan.Co
 - **Assembly copyright:** Copyright ©  2011, Copyright ©  2012, Copyright © Microsoft 2011, Copyright © Microsoft 2012, Copyright © Stefan.Co 2011
 
